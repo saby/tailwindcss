@@ -9,7 +9,7 @@
     "build:css": "postcss Tailwind/template.css -o Tailwind/tailwind.css"
   },
   "dependencies": {
-    "tailwindcss": "^1.9.6",
+    "tailwindcss": "1.9.6",
     "autoprefixer": "latest"
   },
   "devDependencies": {
