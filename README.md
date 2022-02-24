@@ -1,5 +1,5 @@
 # Tailwindcss
-
+#
 **Описание**: Набор утилит framework'а tailwindcss для работы с wasaby
 
 - Ответственный за область: [Корнев Андрей](https://online.sbis.ru/person/fdb7d833-db62-4bac-a951-8b26c42d3ef4 "Корнев Андрей")
