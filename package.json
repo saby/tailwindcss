@@ -3,7 +3,7 @@
    "description": "Форк сторонней библиотеки https://tailwindcss.com/docs",
    "repository": {
       "type": "git",
-      "url": "git@github.com:saby/tailwindcss.git"
+      "url": "git@git.sbis.ru:saby/tailwindcss.git"
    },
    "scripts": {
       "build:css": "postcss Tailwind/template.css -o Tailwind/tailwind.css"
