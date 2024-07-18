@@ -1,0 +1,21 @@
+{
+   "name": "tailwindcss",
+   "description": "Форк сторонней библиотеки https://tailwindcss.com/docs",
+   "repository": {
+      "type": "git",
+      "url": "git@git.sbis.ru:saby/tailwindcss.git"
+   },
+   "scripts": {
+      "build:css": "postcss Tailwind/template.css -o Tailwind/tailwind.css"
+   },
+   "dependencies": {
+      "tailwindcss": "3.4.1",
+      "@tailwindcss/container-queries": "0.1.1",
+      "autoprefixer": "latest"
+   },
+   "devDependencies": {
+      "cssnano": "latest",
+      "postcss": "latest",
+      "postcss-cli": "latest"
+   }
+}
