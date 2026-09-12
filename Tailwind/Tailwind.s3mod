@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ui_module for_cdn="0" id="6ae4f1d6-9ecf-4805-a98c-65e47906eedd" kaizen_zone="60bb379e-69be-41c7-a2c8-09c65d114897"  name="Tailwind" package="Платформа" required="0" responsible="Корнев А.А." responsible_uuid="fdb7d833-db62-4bac-a951-8b26c42d3ef4" version="1.01">
+
+  <description/>
+
+  <depends/>
+
+  <load_after/>
+
+  <parameters/>
+
+  <resources/>
+
+  <preload/>
+
+  <typescript>
+    <arg key="typecheck" value="0"/>
+  </typescript>
+</ui_module>
