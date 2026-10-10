@@ -1,0 +1,31 @@
+
+.idea
+__pycache__
+*.dll
+*.pyd
+*.so
+/.project
+
+# yarn
+/yarn.lock
+
+# npm
+/node_modules
+/package-lock.json
+/builderConfig.json
+/tsconfig.json
+/tslib.js
+/tslint.json
+
+# Интеграционное тестирование
+tests-platform/**/result.db
+/tailwind.config.js
+/**/tsconfig.json
+/.eslintrc.js
+/.stylelintrc.js
+.stylelintignore
+/.prettierrc.js
+.prettierignore
+/**/*.css.json.d.ts
+/tailwind.preset.js
+/.vscode
